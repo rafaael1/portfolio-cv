@@ -10,17 +10,17 @@ main:
   - name: Posts
     url: '#posts'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Projetos
+    url: '#projetos'
     weight: 30
   - name: Talks
     url: '#talks'
     weight: 40
-  - name: Publications
-    url: '#featured'
+  - name: Publicacoes
+    url: '#publica'
     weight: 50
-  - name: Contact
-    url: '#contact'
+  - name: Contato
+    url: '#contato'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
